@@ -9,6 +9,7 @@ sifreleme filetoencr.ypt yourpassword [random byte frequency] [iteration count]
 
 to encrypt
 
+===================================================================
 
 sifreleme filetodecr.ypt yourpassword
 
