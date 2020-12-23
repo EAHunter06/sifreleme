@@ -1,4 +1,4 @@
-# encryption
+# sifreleme
 A small encryption program for my school project
 # Usage:
 sifreleme filetoencr.ypt yourpassword
